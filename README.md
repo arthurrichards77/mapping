@@ -2,6 +2,8 @@
 
 UAV mission planning using GIS maps to identify hazards, no fly zones, safety locations and control zones.
 
+![map example](https://raw.githubusercontent.com/arthurrichards77/mapping/master/bristol_example_osm/qgis_map.png)
+
 Underlying principles described in:
 
 H. Goudarzi, D. Hine and A. Richards, "Mission Automation for Drone Inspection in Congested Environments," 2019 Workshop on Research, Education and Development of Unmanned Aerial Systems (RED UAS), Cranfield, United Kingdom, 2019, pp. 305-314.
