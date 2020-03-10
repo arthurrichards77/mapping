@@ -10,8 +10,7 @@ H. Goudarzi, D. Hine and A. Richards, "Mission Automation for Drone Inspection i
 
 DOI: [10.1109/REDUAS47371.2019.8999719](https://doi.org/10.1109/REDUAS47371.2019.8999719)
 
-This release uses open source data from [openstreetmap](https://www.openstreetmap.org/).  
-Data from Ordnance Survey [Digimap](https://digimap.edina.ac.uk/) can also be used, with appropriate coordinate transformations.
+This release uses open source data from [openstreetmap](https://www.openstreetmap.org/).  Data from Ordnance Survey [Digimap](https://digimap.edina.ac.uk/) can also be used, with appropriate coordinate transformations.
 
 The `bristol_example_osm` notebook works through the example, including installation instructions for Python dependencies.
 
